@@ -4,8 +4,6 @@ Bu repozitoriyada men o'rgangan va yaratgan HTML va CSS asosidagi loyihalar jaml
 
 - [`01-art-design`](https://azykdeveloper.github.io/html-css-projects/01-art-design): Oddiy bir sahifa (landing page) loyihasi.  
 
-## 📂 Foydalanish tartibi
-
 ```bash
 git clone https://github.com/azykdeveloper/html-css-projects.git
 cd html-css-projects
