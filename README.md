@@ -1,8 +1,18 @@
-# 🌐 HTML & CSS Proyektlar to'plami
+# HTML & CSS Projects
 
-Bu repozitoriyada men o'rgangan va yaratgan HTML va CSS asosidagi loyihalar jamlangan.
+A simple collection of small projects built with only HTML and CSS.
 
-- [`01-art-design`](https://azykdeveloper.github.io/html-css-projects/01-art-design): Oddiy bir sahifa (landing page) loyihasi.  
+Each folder represents a mini web UI — created to practice layouts, styling, and responsive design. These are not full-feature apps, but focused exercises to improve frontend fundamentals.
+
+## Projects
+- [`01-art-design`](https://azykdeveloper.github.io/html-css-projects/01-art-design): A basic landing page with clean visuals and layout.
+
+More projects coming soon...
+  
+
+## Getting Started
+
+To try the projects locally:
 
 ```bash
 git clone https://github.com/azykdeveloper/html-css-projects.git
